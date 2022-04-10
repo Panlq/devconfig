@@ -24,7 +24,7 @@ noremap i k
 noremap h i
 
 " 配置国内github加速源
-let g:plug_url_format='https://git::@hub.fastgit.org/%s.git'
+let g:plug_url_format='https://git::@hub.fastgit.xyz/%s.git'
 
 " 插件配置begin
 call plug#begin('~/.vim/plugged')
